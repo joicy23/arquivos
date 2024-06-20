@@ -33,8 +33,8 @@ número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
 número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
 
 número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+[SPEED_2]Texto rápido[/SPEED_2]
 
-[SPEED_100]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_100]
-[SPEED_100]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_X]
-[SPEED_600]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_X]
-[SPEED_600]número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>[/SPEED_X]
+Texto normal
+
+[SPEED_0.5]Texto lento[/SPEED_0.5]
