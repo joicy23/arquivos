@@ -41,17 +41,11 @@ Texto normal
 
 
 
-Texto antes da simulação de download.
+[SIMULATE_DOWNLOAD]
+Título do arquivo: Arquivo Exemplo
+Tamanho: [RANDOM_SIZE]
+Velocidade: [SPEED_1.5]1.5[/SPEED_1.5] MB/s
 
-[SPEED_1]Texto com velocidade normal.[/SPEED_1]
+[==========================================] 100%
 
-Texto com simulação de download: {DOWNLOAD_SPEED_1.5} {=======5.2%       }.
-
-[SPEED_0.5]Texto com velocidade reduzida.[/SPEED_0.5]
-
-Outro texto normal.
-
-{DOWNLOAD_SPEED_2}Simulando um download mais rápido: {=======20.3%       }.
-
-[SPEED_2.5]Texto com velocidade aumentada temporariamente.[/SPEED_2.5]
-
+Download completo.
