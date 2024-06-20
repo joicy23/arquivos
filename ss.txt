@@ -43,4 +43,70 @@ Texto normal
 Iniciando download...
 [DOWNLOAD speed=100]
 Download concluído.
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+[SPEED_2]Texto rápido[/SPEED_2]
+
+Texto normal
+
+[SPEED_0.5]Texto lento[/SPEED_0.5]
+
+
+Iniciando download...
+[DOWNLOAD speed=100]
+Download concluído.
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+[SPEED_2]Texto rápido[/SPEED_2]
+
+Texto normal
+
+[SPEED_0.5]Texto lento[/SPEED_0.5]
+
+
+Iniciando download...
+[DOWNLOAD speed=100]
+Download concluído.
 
