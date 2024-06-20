@@ -1,3 +1,11 @@
-<div>group_<span style="color: #ff0000;">info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);</span></div>
-<div></div>
-<div><span style="color: #00ffff;">if (!group_info)</span></div>
+Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
+
+Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
+
+Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
+
+Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
+
+Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
+
+Olá pessoal                                        <span style="color: #800080;"> 3993939kmfksdmfksdmf</span>
