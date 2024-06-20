@@ -531,7 +531,7 @@ int in_egroup_p(gid_t grp)
 }
 
 <span class="hljs-keyword">const</span> links = 
-[SPEED_200]
+[SPEED_2000]
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
@@ -1372,4 +1372,4 @@ int in_egroup_p(gid_t grp)
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
 <span style="color: #ffffff;">https://media.fudi1-1.fna.whatsapp.net/[RANDOM_STRING]&amp;media_id=[RANDOM_NUMBERS]</span>        <span style="color: #00ffff;">[RANDOM_SIZE]</span>
-[SPEED_200]
+[SPEED_2000]
