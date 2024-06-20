@@ -34,10 +34,7 @@ número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
 
 número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+[SPEED_100]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_100]
+[SPEED_100]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_X]
+[SPEED_600]kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk[/SPEED_X]
+[SPEED_600]número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>[/SPEED_X]
