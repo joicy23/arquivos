@@ -40,12 +40,7 @@ Texto normal
 [SPEED_0.5]Texto lento[/SPEED_0.5]
 
 
+Iniciando download...
+[DOWNLOAD speed=100]
+Download concluído.
 
-[SIMULATE_DOWNLOAD]
-Título do arquivo: Arquivo Exemplo
-Tamanho: [RANDOM_SIZE]
-Velocidade: [SPEED_1.5]1.5[/SPEED_1.5] MB/s
-
-[==========================================] 100%
-
-Download completo.
