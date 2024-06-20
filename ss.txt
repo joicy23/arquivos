@@ -9,3 +9,35 @@ Olá pessoal                                         <span 
 Olá pessoal                                         <span style="color: #ff0000;">3993939kmfksdmfksdmf</span>
 
 Olá pessoal                                        <span style="color: #800080;"> 3993939kmfksdmfksdmf</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio     <span style="color: #00ffff;"> [RANDOM_SIZE]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio    <span style="color: #ffff00;">[RANDOM_STRING]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+número aleatio  <span style="color: #ff00ff;">[RANDOM_NUMBERS]</span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
